@@ -1,5 +1,4 @@
 .pypirc
-data
 .gitignore
 =0.26.0
 logs
